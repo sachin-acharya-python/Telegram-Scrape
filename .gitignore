@@ -1,0 +1,16 @@
+# Configurations
+config.ini
+
+# Python
+__pycache__
+.mypy_cache
+
+# Virtual Environment
+base
+
+# Output
+Output
+
+# Telegram Sessions
+*.session*
+*.json
